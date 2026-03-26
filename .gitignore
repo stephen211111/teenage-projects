@@ -1,0 +1,14 @@
+# macOS metadata
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows metadata
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Duplicate files (parenthesised copies created by iPhone sync)
+*\(1\).*

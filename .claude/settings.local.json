@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git -C \"C:\\\\Users\\\\Stefan\\\\Downloads\\\\Engineering projects-20260326T094541Z-3-001\\\\Engineering projects\" remote -v)"
+    ]
+  }
+}

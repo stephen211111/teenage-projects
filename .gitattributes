@@ -1,0 +1,9 @@
+# Track all video files with Git LFS (avoids GitHub's 100 MB file size limit)
+*.MOV filter=lfs diff=lfs merge=lfs -text
+*.mov filter=lfs diff=lfs merge=lfs -text
+*.MP4 filter=lfs diff=lfs merge=lfs -text
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+
+# Also track original HEIC files with LFS (they can be large)
+*.HEIC filter=lfs diff=lfs merge=lfs -text
+*.heic filter=lfs diff=lfs merge=lfs -text
